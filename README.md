@@ -22,7 +22,7 @@ Sign up for our newsletter to stay updated on new products, special promotions, 
 We are here to help you make your home a better place to live in.
 
 
-Deployed link : https://better-living-home.netlify.app/index.html
+Deployed link : https://reliable-faloodeh-c84a72.netlify.app/
 
 API link : https://63c6d291dcdc478e15ca4df5.mockapi.io/appliances
 
